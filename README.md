@@ -13,6 +13,14 @@
 
 Kandela dims, warms, and tunes every monitor individually — right from your system tray. Built for late-night work, dual-monitor setups, and anyone whose eyes deserve a break.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/Screenshot 2026-10-15 002307.png" alt="Main screen — brightness, contrast, temperature" width="340">
+  &nbsp;&nbsp;
+  <img src="Screenshots/Screenshot 2026-10-15 002401.png" alt="Settings — themes, shortcuts, preferences" width="340">
+</p>
+
 ## What Kandela does
 
 - **Dim each monitor** — independent brightness per display
