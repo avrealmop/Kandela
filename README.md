@@ -38,7 +38,7 @@ Premium is a **one-time purchase** — no subscription.
 
 ## Download
 
-Kandela is distributed through the [Microsoft Store](https://www.microsoft.com/store/apps/9NGMHCTMRMN7).
+Kandela is a Windows app (x64). Download links will be posted here once available.
 
 ## Documentation
 
