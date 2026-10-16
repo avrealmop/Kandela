@@ -46,7 +46,10 @@ Premium is a **one-time purchase** — no subscription.
 
 ## Download
 
-Kandela is a Windows app (x64). Download links will be posted here once available.
+Kandela is a Windows app (x64).
+
+- **Microsoft Store** — search "Kandela" or open `https://apps.microsoft.com/detail/9NGMHCTMRMN7` (auto-update via Store).
+- **Direct download (EXE)** — get `Kandela-Setup-1.0.7.exe` from the [latest release](https://github.com/avrealmop/kandela-docs/releases/latest) (in-app update check supported).
 
 ## Documentation
 
