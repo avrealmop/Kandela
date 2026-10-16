@@ -29,6 +29,8 @@ Kandela dims, warms, and tunes every monitor individually — right from your sy
 - **Hardware brightness (DDC/CI)** — real backlight control where supported
 - **Schedule it** — auto on/off by time of day
 - **Keyboard shortcuts** — toggle the effect, step brightness
+- **Window transparency** — make the app window see-through (Premium)
+- **Automatic update checks** — MSIX via Microsoft Store, EXE via GitHub releases
 - **20 retro themes** — from Amber CRT to Game Boy
 
 ## Free vs Premium
@@ -37,9 +39,11 @@ Kandela dims, warms, and tunes every monitor individually — right from your sy
 |---|:---:|:---:|
 | Brightness & contrast | ✅ | ✅ |
 | 2 themes | ✅ | ✅ |
+| Check for updates | ✅ | ✅ |
 | Color temperature | — | ✅ |
 | Custom shortcuts | — | ✅ |
 | Scheduling | — | ✅ |
+| Window transparency | — | ✅ |
 | All 20 themes | — | ✅ |
 
 Premium is a **one-time purchase** — no subscription.
@@ -49,7 +53,7 @@ Premium is a **one-time purchase** — no subscription.
 Kandela is a Windows app (x64).
 
 - **Microsoft Store** — search "Kandela" or open `https://apps.microsoft.com/detail/9NGMHCTMRMN7` (auto-update via Store).
-- **Direct download (EXE)** — get `Kandela-Setup-1.0.7.exe` from the [latest release](https://github.com/avrealmop/kandela-docs/releases/latest) (in-app update check supported).
+- **Direct download (EXE)** — get `Kandela-Setup-1.0.8.exe` from the [latest release](https://github.com/avrealmop/kandela-docs/releases/latest) (in-app update check supported).
 
 ## Documentation
 
