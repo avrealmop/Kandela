@@ -16,9 +16,9 @@ Kandela dims, warms, and tunes every monitor individually — right from your sy
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot 2026-10-15 002307.png" alt="Main screen — brightness, contrast, temperature" width="340">
+  <img src="Screenshots/Screenshot-main.png" alt="Main screen — brightness, contrast, temperature" width="340">
   &nbsp;&nbsp;
-  <img src="Screenshots/Screenshot 2026-10-15 002401.png" alt="Settings — themes, shortcuts, preferences" width="340">
+  <img src="Screenshots/Screenshot-settings.png" alt="Settings — themes, shortcuts, transparency" width="340">
 </p>
 
 ## What Kandela does
