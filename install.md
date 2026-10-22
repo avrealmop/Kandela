@@ -13,8 +13,8 @@ Kandela is a Windows app (x64). Two ways to install:
 
 **Option B — Direct download (EXE)**
 
-1. Open the [latest release](https://github.com/avrealmop/kandela/releases/latest)
-2. Download `Kandela-Setup-1.0.9.exe`
+1. Open the [latest release](https://github.com/avrealmop/Kandela/releases/latest)
+2. Download `Kandela-Setup-1.0.10.exe`
 3. Run the installer and follow the steps
 4. Launch Kandela from the Start Menu — it appears in the system tray
 
